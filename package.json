@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "cypress:open": "cypress open",
+        "cypress:run": "cypress run --browser chrome"
+    },
+    "devDependencies": {
+        "cypress": "^3.8.3",
+        "eslint-plugin-chai-friendly": "^0.5.0",
+        "eslint-plugin-cypress": "^2.9.0"
+    }
+}
